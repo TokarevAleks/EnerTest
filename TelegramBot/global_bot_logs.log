@@ -1,0 +1,171 @@
+2024-09-23 20:07:43,223 - INFO - Bot: EnerTest [@Ener_testBot]
+2024-09-23 20:07:43,318 - WARNING - Updates were skipped successfully.
+2024-09-23 20:07:43,318 - INFO - Start polling.
+2024-09-23 20:08:01,754 - INFO - Received message [ID:2886] in chat [private:253292725]
+2024-09-23 20:08:01,755 - INFO - Пользователь 253292725 начал работу с ботом.
+2024-09-23 20:08:01,767 - INFO - Логотип сохранен: processed_logo.png
+2024-09-23 20:08:02,315 - INFO - Process update [ID:916110190]: [success] (in 561 ms)
+2024-09-23 20:08:08,439 - INFO - Received message [ID:2889] in chat [private:253292725]
+2024-09-23 20:08:08,441 - INFO - ID пользователя 253292725 подтвержден.
+2024-09-23 20:08:08,679 - INFO - Process update [ID:916110191]: [success] (in 242 ms)
+2024-09-23 20:08:17,448 - INFO - Received message [ID:2891] in chat [private:253292725]
+2024-09-23 20:08:17,774 - INFO - Изображение загружено: C:\Users\Tokar\AppData\Local\Temp\tmpz3ozqi49\downloaded_image_20240923_200817.jpg
+2024-09-23 20:08:17,830 - INFO - Скопирован файл: ./253292725\downloaded_image_20240923_200817_b3d5f8ae-7707-4700-93e7-a8e6e376e686\original_image.png
+2024-09-23 20:08:20,686 - INFO - Сохранено аннотированное изображение: ./253292725\downloaded_image_20240923_200817_b3d5f8ae-7707-4700-93e7-a8e6e376e686\annotated_image_20240923_200817.png
+2024-09-23 20:08:21,321 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_200817_b3d5f8ae-7707-4700-93e7-a8e6e376e686\cropped_3phase_0.png
+2024-09-23 20:08:21,331 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_200817_b3d5f8ae-7707-4700-93e7-a8e6e376e686\cropped_mode_1.png
+2024-09-23 20:08:22,225 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_200817_b3d5f8ae-7707-4700-93e7-a8e6e376e686\cropped_type_3.png
+2024-09-23 20:08:23,105 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_200817_b3d5f8ae-7707-4700-93e7-a8e6e376e686\cropped_number_4.png
+2024-09-23 20:08:23,949 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_200817_b3d5f8ae-7707-4700-93e7-a8e6e376e686\cropped_volt_5.png
+2024-09-23 20:08:24,773 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_200817_b3d5f8ae-7707-4700-93e7-a8e6e376e686\cropped_amper_6.png
+2024-09-23 20:08:25,597 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_200817_b3d5f8ae-7707-4700-93e7-a8e6e376e686\cropped_year_7.png
+2024-09-23 20:08:26,421 - INFO - Извлечены числа: 2014
+2024-09-23 20:08:26,421 - INFO - Распознанная информация для пользователя 253292725: {'year': 2014, 'type': 'Меркурий 230', 'mode': 'ART-02 CLN', 'number': '№1765017', 'amper': '10(100)A', 'volt': '3x230/400V', '1phase': 'не распознано', '3phase': 'трехфазный', 'image_name': './253292725\\downloaded_image_20240923_200817_b3d5f8ae-7707-4700-93e7-a8e6e376e686\\original_image.png'}
+2024-09-23 20:08:26,652 - INFO - Обработка фотографии для пользователя 253292725 завершена. Логи сохранены в: ./253292725\bot_logs.log
+2024-09-23 20:08:26,654 - INFO - Process update [ID:916110192]: [success] (in 9206 ms)
+2024-09-23 20:08:46,069 - INFO - Received callback query [ID:1087883970308038959] from user [ID:253292725] for message [ID:2895] in chat [private:253292725] with data: edit_number originally posted by user [ID:7454912487]
+2024-09-23 20:08:46,314 - INFO - Unhandled callback query [ID:1087883970308038959] from user [ID:253292725] for message [ID:2895] in chat [private:253292725] with data: edit_number originally posted by user [ID:7454912487]
+2024-09-23 20:08:46,315 - INFO - Process update [ID:916110193]: [success] (in 246 ms)
+2024-09-23 20:08:53,479 - INFO - Received message [ID:2897] in chat [private:253292725]
+2024-09-23 20:08:53,687 - INFO - Process update [ID:916110194]: [success] (in 208 ms)
+2024-09-23 20:08:55,807 - INFO - Received callback query [ID:1087883972704669321] from user [ID:253292725] for message [ID:2895] in chat [private:253292725] with data: update_data originally posted by user [ID:7454912487]
+2024-09-23 20:08:55,808 - INFO - Обновление данных для пользователя 253292725: {'year': 2014, 'type': 'Меркурий 230', 'mode': 'ART-02 CLN', 'number': '17658017', 'amper': '10(100)A', 'volt': '3x230/400V', '1phase': 'не распознано', '3phase': 'трехфазный', 'image_name': './253292725\\downloaded_image_20240923_200817_b3d5f8ae-7707-4700-93e7-a8e6e376e686\\original_image.png'}
+2024-09-23 20:08:55,896 - INFO - Unhandled callback query [ID:1087883972704669321] from user [ID:253292725] for message [ID:2895] in chat [private:253292725] with data: update_data originally posted by user [ID:7454912487]
+2024-09-23 20:08:55,896 - INFO - Process update [ID:916110195]: [success] (in 89 ms)
+2024-09-23 20:09:00,520 - INFO - Received callback query [ID:1087883971367978816] from user [ID:253292725] for message [ID:2895] in chat [private:253292725] with data: search_by_type originally posted by user [ID:7454912487]
+2024-09-23 20:09:11,376 - INFO - Результаты поиска по типу для пользователя 253292725: найдено 101470 записей, уникальные GosNumber: 23345-07, 23345-04, 26542-04, 25617-18, 23345-03, 25617-07, 25617-03, 80590-20, 23345-02
+2024-09-23 20:09:11,678 - INFO - Unhandled callback query [ID:1087883971367978816] from user [ID:253292725] for message [ID:2895] in chat [private:253292725] with data: search_by_type originally posted by user [ID:7454912487]
+2024-09-23 20:09:11,679 - INFO - Process update [ID:916110196]: [success] (in 11160 ms)
+2024-09-23 20:09:18,508 - INFO - Received callback query [ID:1087883972868004435] from user [ID:253292725] for message [ID:2902] in chat [private:253292725] with data: search_by_mode originally posted by user [ID:7454912487]
+2024-09-23 20:09:19,075 - INFO - Unhandled callback query [ID:1087883972868004435] from user [ID:253292725] for message [ID:2902] in chat [private:253292725] with data: search_by_mode originally posted by user [ID:7454912487]
+2024-09-23 20:09:19,076 - INFO - Process update [ID:916110197]: [success] (in 569 ms)
+2024-09-23 20:09:23,548 - INFO - Received callback query [ID:1087883971420006232] from user [ID:253292725] for message [ID:2904] in chat [private:253292725] with data: search_by_year originally posted by user [ID:7454912487]
+2024-09-23 20:09:23,549 - INFO - Поиск по year ничего не нашел. Возвращаем результаты предыдущего поиска.
+2024-09-23 20:09:23,552 - INFO - Итоговый DataFrame:
+                                             TypeName        Type2                     Type  FhaseCount PrimaryAmperage NomonalLoad  ManufacturerYear GosNumber            SearchKey
+Счетчики электрической энергии трехфазные статические Меркурий-230  Меркурий 230 ART-02 CLN           3         10(100)   3х220/380              2004  23345-04  Меркурий230ART02CLN
+Счетчики электрической энергии трехфазные статические Меркурий 230 Меркурий 230 ART-02 CLNB           3         10(100)   3х230/400              2007  23345-07 Меркурий230ART02CLNB
+Счетчики электрической энергии трехфазные статические Меркурий 230  Меркурий 230 ART-02 CLN           3         10(100)   3х230/400              2007  23345-07  Меркурий230ART02CLN
+Счетчики электрической энергии трехфазные статические Меркурий 230 Меркурий 230 ART-02 CLNB           3         10(100)   3х230/400              2013  23345-07 Меркурий230ART02CLNB
+Счетчики электрической энергии трехфазные статические Меркурий-230 Меркурий 230 ART-02 CLNB           3         10(100)   3х220/380              2004  23345-04 Меркурий230ART02CLNB
+Счетчики электрической энергии трехфазные статические Меркурий 230  Меркурий 230 ART-02 CLN           3         10(100)   3х230/400              2013  23345-07  Меркурий230ART02CLN
+2024-09-23 20:09:23,813 - INFO - Unhandled callback query [ID:1087883971420006232] from user [ID:253292725] for message [ID:2904] in chat [private:253292725] with data: search_by_year originally posted by user [ID:7454912487]
+2024-09-23 20:09:23,813 - INFO - Process update [ID:916110198]: [success] (in 267 ms)
+2024-09-23 20:09:33,400 - INFO - Received message [ID:2906] in chat [private:253292725]
+2024-09-23 20:09:33,686 - INFO - Изображение загружено: C:\Users\Tokar\AppData\Local\Temp\tmpmlggcxsm\downloaded_image_20240923_200933.jpg
+2024-09-23 20:09:33,710 - INFO - Скопирован файл: ./253292725\downloaded_image_20240923_200933_314dab5f-84d6-44bc-a384-2953319b05f8\original_image.png
+2024-09-23 20:09:34,159 - INFO - Сохранено аннотированное изображение: ./253292725\downloaded_image_20240923_200933_314dab5f-84d6-44bc-a384-2953319b05f8\annotated_image_20240923_200933.png
+2024-09-23 20:09:34,954 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_200933_314dab5f-84d6-44bc-a384-2953319b05f8\cropped_volt_1.png
+2024-09-23 20:09:35,858 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_200933_314dab5f-84d6-44bc-a384-2953319b05f8\cropped_mode_2.png
+2024-09-23 20:09:36,727 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_200933_314dab5f-84d6-44bc-a384-2953319b05f8\cropped_amper_3.png
+2024-09-23 20:09:37,637 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_200933_314dab5f-84d6-44bc-a384-2953319b05f8\cropped_year_4.png
+2024-09-23 20:09:38,480 - INFO - Извлечены числа: 2007
+2024-09-23 20:09:38,483 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_200933_314dab5f-84d6-44bc-a384-2953319b05f8\cropped_1phase_5.png
+2024-09-23 20:09:38,483 - INFO - Распознанная информация для пользователя 253292725: {'year': 2007, 'type': 'не распознано', 'mode': 'СО-505', 'number': 'не распознано', 'amper': '10-40A', 'volt': '220V', '1phase': 'однофазный', '3phase': 'не распознано', 'image_name': './253292725\\downloaded_image_20240923_200933_314dab5f-84d6-44bc-a384-2953319b05f8\\original_image.png'}
+2024-09-23 20:09:38,664 - INFO - Обработка фотографии для пользователя 253292725 завершена. Логи сохранены в: ./253292725\bot_logs.log
+2024-09-23 20:09:38,666 - INFO - Process update [ID:916110199]: [success] (in 5266 ms)
+2024-09-23 20:09:49,405 - INFO - Received callback query [ID:1087883972681753145] from user [ID:253292725] for message [ID:2910] in chat [private:253292725] with data: edit_year originally posted by user [ID:7454912487]
+2024-09-23 20:09:49,502 - INFO - Unhandled callback query [ID:1087883972681753145] from user [ID:253292725] for message [ID:2910] in chat [private:253292725] with data: edit_year originally posted by user [ID:7454912487]
+2024-09-23 20:09:49,502 - INFO - Process update [ID:916110200]: [success] (in 97 ms)
+2024-09-23 20:09:52,616 - INFO - Received message [ID:2912] in chat [private:253292725]
+2024-09-23 20:09:52,751 - INFO - Process update [ID:916110201]: [success] (in 135 ms)
+2024-09-23 20:09:54,395 - INFO - Received callback query [ID:1087883970358429342] from user [ID:253292725] for message [ID:2910] in chat [private:253292725] with data: update_data originally posted by user [ID:7454912487]
+2024-09-23 20:09:54,396 - INFO - Обновление данных для пользователя 253292725: {'year': 2008, 'type': 'не распознано', 'mode': 'СО-505', 'number': 'не распознано', 'amper': '10-40A', 'volt': '220V', '1phase': 'однофазный', '3phase': 'не распознано', 'image_name': './253292725\\downloaded_image_20240923_200933_314dab5f-84d6-44bc-a384-2953319b05f8\\original_image.png'}
+2024-09-23 20:09:54,543 - INFO - Unhandled callback query [ID:1087883970358429342] from user [ID:253292725] for message [ID:2910] in chat [private:253292725] with data: update_data originally posted by user [ID:7454912487]
+2024-09-23 20:09:54,543 - INFO - Process update [ID:916110202]: [success] (in 149 ms)
+2024-09-23 20:09:58,620 - INFO - Received callback query [ID:1087883972378198238] from user [ID:253292725] for message [ID:2910] in chat [private:253292725] with data: search_by_type originally posted by user [ID:7454912487]
+2024-09-23 20:10:09,270 - INFO - Результаты поиска по типу для пользователя 253292725: найдено 0 записей, уникальные GosNumber: None
+2024-09-23 20:10:09,596 - INFO - Unhandled callback query [ID:1087883972378198238] from user [ID:253292725] for message [ID:2910] in chat [private:253292725] with data: search_by_type originally posted by user [ID:7454912487]
+2024-09-23 20:10:09,596 - INFO - Process update [ID:916110203]: [success] (in 10976 ms)
+2024-09-23 20:10:15,460 - INFO - Received callback query [ID:1087883971442076256] from user [ID:253292725] for message [ID:2916] in chat [private:253292725] with data: search_by_mode originally posted by user [ID:7454912487]
+2024-09-23 20:10:27,505 - INFO - Unhandled callback query [ID:1087883971442076256] from user [ID:253292725] for message [ID:2916] in chat [private:253292725] with data: search_by_mode originally posted by user [ID:7454912487]
+2024-09-23 20:10:27,505 - INFO - Process update [ID:916110204]: [success] (in 12045 ms)
+2024-09-23 20:10:32,581 - INFO - Received callback query [ID:1087883970738876315] from user [ID:253292725] for message [ID:2918] in chat [private:253292725] with data: search_by_year originally posted by user [ID:7454912487]
+2024-09-23 20:10:32,585 - INFO - Поиск по year ничего не нашел. Возвращаем результаты предыдущего поиска.
+2024-09-23 20:10:32,594 - INFO - Итоговый DataFrame:
+                                                TypeName           Type2                   Type  FhaseCount PrimaryAmperage NomonalLoad  ManufacturerYear GosNumber              SearchKey
+                       Счетчики электрические однофазные СО-505, СО-505Т                 СО-505           1         10 (40)        None              2000  17905-00                  СО505
+                       Счетчики электрические однофазные СО-505, СО-505Т                 СО-505           1         15 (60)        None              2000  17905-00                  СО505
+                       Счетчики электрические однофазные СО-505, СО-505Т                 СО-505           1         10 (50)        None              2000  17905-00                  СО505
+                       Счетчики электрические однофазные СО-505, СО-505Т                 СО-505           1         10 (40)        None              2000  17905-00                  СО505
+                       Счетчики электрические однофазные СО-505, СО-505Т                СО-505Т           1         10 (50)        None              2000  17905-00                 СО505Т
+                       Счетчики электрические однофазные СО-505, СО-505Т                 СО-505           1         10 (50)        None              2000  17905-00                  СО505
+                       Счетчики электрические однофазные          СО-505                 СО-505           1         10 (40)        None              2011  17905-11           СО5051790511
+                       Счетчики электрические однофазные СО-505, СО-505Т                СО-505Т           1         10 (40)        None              2000  17905-00                 СО505Т
+Счетчики активной энергии электромеханические однофазные         СО-505К СО-505К 220В 10 (60) A           1         10 (60)         220              2011  48347-11 СО505К220В1060A4834711
+Счетчики активной энергии электромеханические однофазные         СО-505К СО-505К 220В 10 (40) A           1         10 (40)         220              2011  48347-11 СО505К220В1040A4834711
+                       Счетчики электрические однофазные СО-505, СО-505Т                СО-505Т           1         10 (50)        None              2000  17905-00                 СО505Т
+                       Счетчики электрические однофазные СО-505, СО-505Т                СО-505Т           1         10 (40)        None              2000  17905-00                 СО505Т
+                       Счетчики электрические однофазные СО-505, СО-505Т                СО-505Т           1         10 (50)        None              2000  17905-00                 СО505Т
+                       Счетчики электрические однофазные СО-505, СО-505Т                 СО-505           1         15 (60)        None              2000  17905-00                  СО505
+                       Счетчики электрические однофазные        СО-505МЭ               СО-505МЭ           1         15 (60)        None              2003  25265-03         СО505МЭ2526503
+                       Счетчики электрические однофазные          СО-505                 СО-505           1         10 (50)        None              2011  17905-11           СО5051790511
+                       Счетчики электрические однофазные СО-505, СО-505Т                 СО-505           1         10 (40)        None              2000  17905-00                  СО505
+                       Счетчики электрические однофазные          СО-505                 СО-505           1         10 (40)        None              1995  15015-95           СО5051501595
+                       Счетчики электрические однофазные СО-505, СО-505Т                 СО-505           1         10 (40)        None              2000  17905-00                  СО505
+                       Счетчики электрические однофазные СО-505, СО-505Т                СО-505Т           1         15 (60)        None              2000  17905-00                 СО505Т
+                       Счетчики электрические однофазные СО-505, СО-505Т                СО-505Т           1         15 (60)        None              2000  17905-00                 СО505Т
+                       Счетчики электрические однофазные          СО-505                 СО-505           1         15 (60)        None              2011  17905-11           СО5051790511
+                       Счетчики электрические однофазные          СО-505                 СО-505           1         10 (40)        None              1995  15015-95           СО5051501595
+                       Счетчики электрические однофазные СО-505, СО-505Т                 СО-505           1         15 (60)        None              2000  17905-00                  СО505
+                       Счетчики электрические однофазные СО-505, СО-505Т                СО-505Т           1         15 (60)        None              2000  17905-00                 СО505Т
+                       Счетчики электрические однофазные          СО-505                 СО-505           1         10 (40)        None              1995  15015-95           СО5051501595
+                       Счетчики электрические однофазные СО-505, СО-505Т                СО-505Т           1         10 (40)        None              2000  17905-00                 СО505Т
+Счетчики активной энергии электромеханические однофазные         СО-505К  СО-505К 220В 5 (30) A           1          5 (30)         220              2011  48347-11  СО505К220В530A4834711
+                       Счетчики электрические однофазные СО-505, СО-505Т                СО-505Т           1         15 (60)        None              2000  17905-00                 СО505Т
+Счетчики активной энергии электромеханические однофазные         СО-505К  СО-505К 220В 5 (20) A           1          5 (20)         220              2011  48347-11  СО505К220В520A4834711
+                       Счетчики электрические однофазные         СО-505Т                СО-505Т           1         10 (40)        None              2002  17905-98          СО505Т1790598
+                       Счетчики электрические однофазные СО-505, СО-505Т                 СО-505           1         10 (50)        None              2000  17905-00                  СО505
+                       Счетчики электрические однофазные        СО-505МЭ               СО-505МЭ           1         10 (40)        None              2003  25265-03         СО505МЭ2526503
+                       Счетчики электрические однофазные СО-505, СО-505Т                 СО-505           1         10 (50)        None              2000  17905-00                  СО505
+                       Счетчики электрические однофазные СО-505, СО-505Т                СО-505Т           1         10 (40)        None              2000  17905-00                 СО505Т
+                       Счетчики электрические однофазные СО-505, СО-505Т                 СО-505           1         15 (60)        None              2000  17905-00                  СО505
+                       Счетчики электрические однофазные СО-505, СО-505Т                СО-505Т           1         10 (50)        None              2000  17905-00                 СО505Т
+2024-09-23 20:10:32,695 - INFO - Unhandled callback query [ID:1087883970738876315] from user [ID:253292725] for message [ID:2918] in chat [private:253292725] with data: search_by_year originally posted by user [ID:7454912487]
+2024-09-23 20:10:32,695 - INFO - Process update [ID:916110205]: [success] (in 113 ms)
+2024-09-23 20:10:48,104 - INFO - Received message [ID:2920] in chat [private:253292725]
+2024-09-23 20:10:48,430 - INFO - Изображение загружено: C:\Users\Tokar\AppData\Local\Temp\tmp2f6rqa21\downloaded_image_20240923_201048.jpg
+2024-09-23 20:10:48,444 - INFO - Скопирован файл: ./253292725\downloaded_image_20240923_201048_25051662-0978-49d5-9138-21c372dd6437\original_image.png
+2024-09-23 20:10:48,981 - INFO - Сохранено аннотированное изображение: ./253292725\downloaded_image_20240923_201048_25051662-0978-49d5-9138-21c372dd6437\annotated_image_20240923_201048.png
+2024-09-23 20:10:49,671 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_201048_25051662-0978-49d5-9138-21c372dd6437\cropped_mode_0.png
+2024-09-23 20:10:50,528 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_201048_25051662-0978-49d5-9138-21c372dd6437\cropped_type_1.png
+2024-09-23 20:10:51,380 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_201048_25051662-0978-49d5-9138-21c372dd6437\cropped_number_2.png
+2024-09-23 20:10:52,237 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_201048_25051662-0978-49d5-9138-21c372dd6437\cropped_volt_3.png
+2024-09-23 20:10:53,281 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_201048_25051662-0978-49d5-9138-21c372dd6437\cropped_amper_4.png
+2024-09-23 20:10:54,159 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_201048_25051662-0978-49d5-9138-21c372dd6437\cropped_year_5.png
+2024-09-23 20:10:55,060 - INFO - Извлечены числа: 20085
+2024-09-23 20:10:55,062 - INFO - Сохранено вырезанное изображение: ./253292725\downloaded_image_20240923_201048_25051662-0978-49d5-9138-21c372dd6437\cropped_1phase_6.png
+2024-09-23 20:10:55,063 - INFO - Распознанная информация для пользователя 253292725: {'year': 20085, 'type': 'СЭО', 'mode': '-1.15.402А', 'number': '09001131', 'amper': '5(60)A', 'volt': '20V', '1phase': 'однофазный', '3phase': 'не распознано', 'image_name': './253292725\\downloaded_image_20240923_201048_25051662-0978-49d5-9138-21c372dd6437\\original_image.png'}
+2024-09-23 20:10:55,481 - INFO - Обработка фотографии для пользователя 253292725 завершена. Логи сохранены в: ./253292725\bot_logs.log
+2024-09-23 20:10:55,483 - INFO - Process update [ID:916110206]: [success] (in 7380 ms)
+2024-09-23 20:11:08,751 - INFO - Received callback query [ID:1087883973457954308] from user [ID:253292725] for message [ID:2924] in chat [private:253292725] with data: edit_year originally posted by user [ID:7454912487]
+2024-09-23 20:11:08,898 - INFO - Unhandled callback query [ID:1087883973457954308] from user [ID:253292725] for message [ID:2924] in chat [private:253292725] with data: edit_year originally posted by user [ID:7454912487]
+2024-09-23 20:11:08,898 - INFO - Process update [ID:916110207]: [success] (in 147 ms)
+2024-09-23 20:11:16,577 - INFO - Received message [ID:2926] in chat [private:253292725]
+2024-09-23 20:11:16,736 - INFO - Process update [ID:916110208]: [success] (in 159 ms)
+2024-09-23 20:11:19,303 - INFO - Received callback query [ID:1087883973144078747] from user [ID:253292725] for message [ID:2924] in chat [private:253292725] with data: edit_mode originally posted by user [ID:7454912487]
+2024-09-23 20:11:19,418 - INFO - Unhandled callback query [ID:1087883973144078747] from user [ID:253292725] for message [ID:2924] in chat [private:253292725] with data: edit_mode originally posted by user [ID:7454912487]
+2024-09-23 20:11:19,418 - INFO - Process update [ID:916110209]: [success] (in 114 ms)
+2024-09-23 20:11:41,677 - INFO - Received message [ID:2929] in chat [private:253292725]
+2024-09-23 20:11:41,779 - INFO - Process update [ID:916110210]: [success] (in 102 ms)
+2024-09-23 20:11:43,961 - INFO - Received callback query [ID:1087883970477094156] from user [ID:253292725] for message [ID:2924] in chat [private:253292725] with data: update_data originally posted by user [ID:7454912487]
+2024-09-23 20:11:43,962 - INFO - Обновление данных для пользователя 253292725: {'year': 2005, 'type': 'СЭО', 'mode': '1.15.402A', 'number': '09001131', 'amper': '5(60)A', 'volt': '20V', '1phase': 'однофазный', '3phase': 'не распознано', 'image_name': './253292725\\downloaded_image_20240923_201048_25051662-0978-49d5-9138-21c372dd6437\\original_image.png'}
+2024-09-23 20:11:44,184 - INFO - Unhandled callback query [ID:1087883970477094156] from user [ID:253292725] for message [ID:2924] in chat [private:253292725] with data: update_data originally posted by user [ID:7454912487]
+2024-09-23 20:11:44,184 - INFO - Process update [ID:916110211]: [success] (in 223 ms)
+2024-09-23 20:11:56,981 - INFO - Received callback query [ID:1087883972340997730] from user [ID:253292725] for message [ID:2924] in chat [private:253292725] with data: search_by_type originally posted by user [ID:7454912487]
+2024-09-23 20:12:10,253 - INFO - Результаты поиска по типу для пользователя 253292725: найдено 280 записей, уникальные GosNumber: 28759-05, 18149-01, 20774-01, 35574-07, 25614-04, 28759-06, 25615-03, 39618-08, 28840-05, 19718-00, 49070-12, 33326-06, 25614-03, 18149-02, 18149-99, 18149-00, 33226-06, 47835-11, 24898-08, 50054-12, 30785-05, 24898-03, 36041-07, 13676-93
+2024-09-23 20:12:10,783 - INFO - Unhandled callback query [ID:1087883972340997730] from user [ID:253292725] for message [ID:2924] in chat [private:253292725] with data: search_by_type originally posted by user [ID:7454912487]
+2024-09-23 20:12:10,783 - INFO - Process update [ID:916110212]: [success] (in 13803 ms)
+2024-09-23 20:12:15,766 - INFO - Received callback query [ID:1087883973172535078] from user [ID:253292725] for message [ID:2934] in chat [private:253292725] with data: search_by_mode originally posted by user [ID:7454912487]
+2024-09-23 20:12:16,164 - INFO - Unhandled callback query [ID:1087883973172535078] from user [ID:253292725] for message [ID:2934] in chat [private:253292725] with data: search_by_mode originally posted by user [ID:7454912487]
+2024-09-23 20:12:16,164 - INFO - Process update [ID:916110213]: [success] (in 398 ms)
+2024-09-23 20:12:19,689 - INFO - Received callback query [ID:1087883972331599402] from user [ID:253292725] for message [ID:2936] in chat [private:253292725] with data: search_by_year originally posted by user [ID:7454912487]
+2024-09-23 20:12:19,692 - INFO - Результаты поиска по year для пользователя 253292725: найдено 4 записей, уникальные GosNumber: 28759-05
+2024-09-23 20:12:19,698 - INFO - Итоговый DataFrame:
+                                  TypeName    Type2            Type  FhaseCount PrimaryAmperage NomonalLoad  ManufacturerYear GosNumber          SearchKey
+Счетчики электрической энергии статические СЭО-1.15   СЭО-1.15.402A         NaN          5 (60)         230              2005  28759-05  СЭО115402A2875905
+Счетчики электрической энергии статические СЭО-1.15 СЭО-1.15.402A/1         NaN          5 (60)         230              2005  28759-05 СЭО115402A12875905
+Счетчики электрической энергии статические СЭО-1.15   СЭО-1.15.402A         NaN          5 (60)         230              2005  28759-05  СЭО115402A2875905
+Счетчики электрической энергии статические СЭО-1.15 СЭО-1.15.402A/1         NaN          5 (60)         230              2005  28759-05 СЭО115402A12875905
+2024-09-23 20:12:19,828 - INFO - Unhandled callback query [ID:1087883972331599402] from user [ID:253292725] for message [ID:2936] in chat [private:253292725] with data: search_by_year originally posted by user [ID:7454912487]
+2024-09-23 20:12:19,829 - INFO - Process update [ID:916110214]: [success] (in 142 ms)
